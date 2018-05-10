@@ -140,7 +140,7 @@ namespace Grabacion
 
             char letra = 'A';
             lblFrecuencia.Text = frecuenciaFundamental.ToString();
-
+            lblDisplay.Text = letra.ToString();
             if (frecuenciaFundamental >= 80 && frecuenciaFundamental <= 120)
             {
                 if (waveOut != null && reader != null)

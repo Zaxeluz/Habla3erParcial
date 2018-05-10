@@ -21,7 +21,7 @@
             </Slider.RenderTransform>
         </Slider>
         <TextBlock x:Name="lblFrecuencia" HorizontalAlignment="Left" Margin="409,26,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Height="51" Width="98" FontSize="30"/>
-        <TextBlock x:Name="Display" HorizontalAlignment="Left" Margin="10,102,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="207" Width="497" FontSize="30" FontFamily="Palatino Linotype"/>
+        <TextBlock x:Name="lblDisplay" HorizontalAlignment="Left" Margin="10,102,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="207" Width="497" FontSize="30" FontFamily="Palatino Linotype"/>
         <Label x:Name="txtFrecuencia" Content="Frecuencia :" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="249,26,0,0" FontSize="30" FontFamily="Brush Script Std" Height="54"/>
 
     </Grid>
